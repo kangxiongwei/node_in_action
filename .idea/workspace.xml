@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0154bfec-ba64-44d8-8786-39ba0e919ca0" name="Default" comment="">
-<<<<<<< Updated upstream
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/chat.js" afterPath="$PROJECT_DIR$/public/javascripts/chat.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/chat_server.js" afterPath="$PROJECT_DIR$/lib/chat_server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/chat_ui.js" afterPath="$PROJECT_DIR$/public/javascripts/chat_ui.js" />
@@ -10,10 +9,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-=======
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/node_in_action_node_modules.xml" />
->>>>>>> Stashed changes
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node_in_action.iws" />
